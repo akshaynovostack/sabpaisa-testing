@@ -4,7 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
-
+package-lock.json
+yarn.lock
+public/assets/.DS_Store
+public/assets/images/.DS_Store
 # testing
 /coverage
 
